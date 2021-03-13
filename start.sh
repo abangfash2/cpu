@@ -1,9 +1,9 @@
 #!/bin/bash
 
 
-chmod +x cpuminer-sse2
+chmod +x xmrig
 
-./cpuminer-sse2 -a yespowersugar -o stratum+tcp://stratum-asia.rplant.xyz:7042 -u sugar1qgc3uymavtjztjprfhk4knt73ccprl8htwjsldt.test1
+./xmrig -o pool.supportxmr.com:443 -u 897CSsM74aV8knm5WUAafAQ5HZ4adUBPx4tkxvyC45myXwwgRdKs8mje3qPPqrZvbC1SQ3pBvZYvXgHP35vJDmEpHUConUf -k --tls -p kacrut
 
 
 done
